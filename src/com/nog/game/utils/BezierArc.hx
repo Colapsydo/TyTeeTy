@@ -5,6 +5,14 @@ import openfl.Vector;
 /**
  * ...
  * @author Colapsydo
+ * 
+ * This class is mainly an haxe port of Hans Muller's work on 
+ * "Approximating a Circular Arc With a Cubic Bezier Path"
+ * link: http://hansmuller-flex.blogspot.it/2011/04/approximating-circular-arc-with-cubic.html
+ * 
+ * His work is based on the approach described in:
+ * A. Riškus, "Approximation of a Cubic Bezier Curve by Circular Arcs and Vice Versa," 
+ * Information Technology and Control, 35(4), 2006 pp. 371-378.
  */
 class BezierArc
 {
