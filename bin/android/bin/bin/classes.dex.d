@@ -1,0 +1,26 @@
+D:\DevHaxe\Android\TTT\bin\android\bin\bin\classes.dex : \
+D:\DevHaxe\Android\TTT\bin\android\bin\bin\classes\com\nog\TTT\BuildConfig.class \
+D:\DevHaxe\Android\TTT\bin\android\bin\bin\classes\com\nog\TTT\MainActivity.class \
+D:\DevHaxe\Android\TTT\bin\android\bin\bin\classes\com\nog\TTT\R$attr.class \
+D:\DevHaxe\Android\TTT\bin\android\bin\bin\classes\com\nog\TTT\R$drawable.class \
+D:\DevHaxe\Android\TTT\bin\android\bin\bin\classes\com\nog\TTT\R.class \
+D:\DevHaxe\Android\TTT\bin\android\bin\bin\classes\org\haxe\lime\GameActivity$1.class \
+D:\DevHaxe\Android\TTT\bin\android\bin\bin\classes\org\haxe\lime\GameActivity.class \
+D:\DevHaxe\Android\TTT\bin\android\bin\bin\classes\org\haxe\lime\MainView$1.class \
+D:\DevHaxe\Android\TTT\bin\android\bin\bin\classes\org\haxe\lime\MainView$10.class \
+D:\DevHaxe\Android\TTT\bin\android\bin\bin\classes\org\haxe\lime\MainView$11.class \
+D:\DevHaxe\Android\TTT\bin\android\bin\bin\classes\org\haxe\lime\MainView$12.class \
+D:\DevHaxe\Android\TTT\bin\android\bin\bin\classes\org\haxe\lime\MainView$2.class \
+D:\DevHaxe\Android\TTT\bin\android\bin\bin\classes\org\haxe\lime\MainView$3.class \
+D:\DevHaxe\Android\TTT\bin\android\bin\bin\classes\org\haxe\lime\MainView$4.class \
+D:\DevHaxe\Android\TTT\bin\android\bin\bin\classes\org\haxe\lime\MainView$5.class \
+D:\DevHaxe\Android\TTT\bin\android\bin\bin\classes\org\haxe\lime\MainView$6.class \
+D:\DevHaxe\Android\TTT\bin\android\bin\bin\classes\org\haxe\lime\MainView$7.class \
+D:\DevHaxe\Android\TTT\bin\android\bin\bin\classes\org\haxe\lime\MainView$8.class \
+D:\DevHaxe\Android\TTT\bin\android\bin\bin\classes\org\haxe\lime\MainView$9.class \
+D:\DevHaxe\Android\TTT\bin\android\bin\bin\classes\org\haxe\lime\MainView$Renderer.class \
+D:\DevHaxe\Android\TTT\bin\android\bin\bin\classes\org\haxe\lime\MainView.class \
+D:\DevHaxe\Android\TTT\bin\android\bin\bin\classes\org\haxe\lime\ManagedMediaPlayer$1.class \
+D:\DevHaxe\Android\TTT\bin\android\bin\bin\classes\org\haxe\lime\ManagedMediaPlayer.class \
+D:\DevHaxe\Android\TTT\bin\android\bin\bin\classes\org\haxe\lime\Sound.class \
+D:\DevHaxe\Android\TTT\bin\android\bin\bin\dexedLibs\classes-96910a165da28ef1e152a538e624bbb4.jar \
