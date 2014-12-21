@@ -33,10 +33,10 @@ class Player
 	var _power:Int;
 	
 	//AI CALIBRATION
-	static var _ag:Float = .5;
-	static var _dg:Float = .2;
-	static var _ab:Float = .2;
-	static var _db:Float = .1;
+	static var _ag:Float = .2;
+	static var _dg:Float = .3;
+	static var _ab:Float = .1;
+	static var _db:Float = .4;
 	
 	static var _calIndex:Int = 0;
 	static var _calList:Vector<Float> = Vector.ofArray([]);
