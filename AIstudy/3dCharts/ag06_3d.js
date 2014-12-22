@@ -36,10 +36,7 @@ $(function () {
             }
         },
         title: {
-            text: 'Draggable box'
-        },
-        subtitle: {
-            text: 'Click and drag the plot area to rotate in space'
+            text: 'AG 0.6'
         },
         plotOptions: {
             scatter: {
@@ -69,10 +66,10 @@ $(function () {
             name: 'Reading',
             colorByPoint: true,
 			// AB value DG
-            data:[[0, 0, 1], [1, 2.16, 1], [ 2,1.66,1], [ 3,2.69,1], 
-					[0, 4.14, 2], [1, 7.78,2], [2, 17.50,2]
-					[0, 11.59,3], [1, 13.01,3]			   
-					[0, 12.84,4]]
+            data:[[0, 21.74, 1], [1, 20.72, 1], [ 2,16.03,1], [ 3,9.68,1], 
+					[0, 27.35, 2], [1, 17.43,2], [2, 4.49,2]
+					[0, 22.31,3], [1, 8.81,3]			   
+					[0, 8.54,4]]
         }]
     });
 

@@ -228,7 +228,7 @@ class GameCore extends EventDispatcher
 		if (_grids[9].getWin() != 0) {
 			_play++;
 			_stats[_grids[9].getWin()]+=1;
-			if (_play < 500) {
+			if (_play < 1000) {
 				//if (_play % 100 == 0) {
 					//trace(_play);
 					//trace((Date.now().getTime() - _time) / 60000);
